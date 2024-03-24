@@ -1,5 +1,5 @@
 # Power_BI_Project_AtliQ-Hospitality-Dashboard
-𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭:
+𝐀𝐛𝐨𝐮𝐭 𝐭𝐡is 𝐏𝐫𝐨𝐣𝐞𝐜𝐭:
 
 This project was a part of a Codebasics resume project challenge. In this project, I had to provide insights to the revenue team of the AtliQ Grand hotel using some past historical data. So that they can improve revenue and market share in the hotel category as compared to other hotels.
 
