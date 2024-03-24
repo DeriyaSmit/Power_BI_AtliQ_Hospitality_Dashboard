@@ -1,1 +1,1 @@
-# Power_BI_AtliQ-Hospitality-Dashboard
+# Power_BI_Project_AtliQ-Hospitality-Dashboard
