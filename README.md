@@ -36,10 +36,19 @@ This project was a part of a Codebasics resume project challenge. In this projec
 🚀Checking why the customer gave the bad rating and fixing that problem because when the rating is bad, the customer does prefer to go to that hotel.
 
 Metrices Used :
+
 ✅Revpar (Revenue per available room )
+
 ✅Occupany%
+
 ✅ADR (Average Daily Rate)
+
 ✅Relization%
+
 ✅DSRN (Daily Sellable Room Night)
+
 ✅DURN (Daily Utilized Room Night)
+
 ✅Week on Week change
+
+
