@@ -16,6 +16,7 @@ This project was a part of a Codebasics resume project challenge. In this projec
 ➡️Then published that report to the power bi service
 
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐭𝐡𝐞 𝐡𝐨𝐭𝐞𝐥 𝐢𝐬 𝐟𝐚𝐜𝐢𝐧𝐠:
+
 🚩The hotel was using the Flat Pricing model for all the days whether it is a weekend or a weekday, because of which the hotel was not able to make more money when there is huge demand on the weekend.
 
 🚩Also, the ADR (Average Daily Rate) is almost the same every month instead of having a peak month in India when everyone travels from one place to another.
