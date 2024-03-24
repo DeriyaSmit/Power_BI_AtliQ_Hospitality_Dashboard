@@ -4,6 +4,7 @@ This project was a part of a Codebasics resume project challenge. In this projec
 
 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲:
 ➡️I started this project by loading the 📜𝐄𝐱𝐜𝐞𝐥 𝐟𝐢𝐥𝐞 into the 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫y
+
 ➡️Then I removed all the unwanted columns from the dataset so that the execution of the data becomes faster. I also checked for any null values or any missing values in the dataset and also checked for changes in the datatypes of the column. Then, I loaded the data to the 𝐏𝐨𝐰𝐞𝐫 𝐕𝐢𝐞𝐰.
 ➡️After that, I created some extra columns in the table which were needed and also created one extra table for unique dates in the dataset. Then, I performed 𝐃𝐚𝐭𝐚 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 so that the data can travel from one table to another table smoothly.
 ➡️Then I created some 𝐃𝐀𝐗 measures that would help to get meaningful insights from the data and also created some visuals to understand the data properly and to check where the hotel is having problems and how it can overcome those problems.
